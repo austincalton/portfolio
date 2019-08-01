@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4d46cd1d.chunk.css",
+    "main.js": "/portfolio/static/js/main.fff08781.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.fff08781.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.a7a5bb61.chunk.js": "/portfolio/static/js/2.a7a5bb61.chunk.js",
+    "static/js/2.a7a5bb61.chunk.js.map": "/portfolio/static/js/2.a7a5bb61.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.d966678197cb9b3fcd611b8dbbabc0b3.js": "/portfolio/precache-manifest.d966678197cb9b3fcd611b8dbbabc0b3.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.4d46cd1d.chunk.css.map": "/portfolio/static/css/main.4d46cd1d.chunk.css.map",
+    "static/media/App.css": "/portfolio/static/media/speakerStrapDemo.30fd5d1f.png",
+    "static/media/drawingFowlsDemo.mp4": "/portfolio/static/media/drawingFowlsDemo.608a156a.mp4",
+    "static/media/github.png": "/portfolio/static/media/github.04d9518f.png",
+    "static/media/linkedIn.png": "/portfolio/static/media/linkedIn.1744f827.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.f32f5005.png"
+  }
+}
